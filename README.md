@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDocDoo
-- 👀 I’m interested in ... Learning Python, R., Data Science, Cloud.  Better nmyself
-- 🌱 I’m currently learning ... Data Science, Project management, Python, R. Notebook, Anaconda
+- 👀 I’m interested in ... Learning Python, R., Data Science, Cloud. AI/ML Better myself
+- 🌱 I’m currently learning ... Data Science, Project management, Python, R. Notebook, Anaconda, AZURE, 
 - 💞️ I’m looking to collaborate on ... Anything that will help me learn new concepts
 - 📫 How to reach me ... 
 
